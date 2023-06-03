@@ -7,10 +7,7 @@
     After a day of exploration, return to your hotel room or suite, where intuitive amenities, Westin Heavenly® Bed and Heavenly® Bath await. Savor a meal at the vibrant Foundry Kitchen & Bar, serving delicious American cuisine and craft cocktails.
     For relaxation, our hotel's WestinWORKOUT® Fitness Studio is open 24-hours and features state-of-the-art gym equipment including Peloton bikes.**
     
- ## Rooms & Suites 
-   Our 873 spacious guestrooms also include 30 luxurious suites, all featuring *Westin’s Heavenly® Bed*.
 
- 
  ## Places to visit
  Our ultimate 4-day itinerary of New York City
 With so many attractions and experiences to choose from, trips to New York fly by all too soon. 
@@ -39,3 +36,6 @@ Oh, and there's no need to pick your attractions before you purchase - you have 
 *270 West 43rd Street, New York, New York, USA, 10036*
 
 **Tel: +1 212-201-2700**
+
+For further information about hotel booking go to:-
+[Link Text](https://www.agoda.com/en-in/pages/agoda/default/DestinationSearchResult.aspx?city=318&site_id=1914936&tag=008307bc-c88c-4b1e-a068-0600b1119ae5&msclkid=f500fb7000151c1b6c9a9f0ac45cab9a)
