@@ -25,5 +25,4 @@ Creating tables:-
 | Fruits   | Vegetables|
 |----------|----------|
 |  Mango   | Carrot   |
-|----------|----------|
 |  Banana  |  Radish  | 
