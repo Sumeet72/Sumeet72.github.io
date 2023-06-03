@@ -1,7 +1,6 @@
 # Travelling
-   ## A TRIP TO NEW YORK
-   ![image](C:\Users\DELL\Pictures\1.jpg) 
-
+  ## A TRIP TO NEW YORK
+  ![image](https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3665/New%20York%20-%205.jpg?crop=259:168&downsize=259:168) 
       
    **The Westin New York at *Times Square* will provide an unforgettable experience in New York City, situated near Times Square, Midtown Manhattan and Madison Square Garden.
     *Walk to Broadway theatres*, Central Park and dozens of famed attractions, or enjoy speedy access to all New York City with most subway lines at our hotel's doorstep.
