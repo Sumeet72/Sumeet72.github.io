@@ -1,5 +1,3 @@
-# Daily Dairy
-
 | DATE | UPDATES |
 |------|-------- |
 |**01-06-2023**|*It was a good experience to start learning a new thing. GitHub is completely  a new thing for me to learn. I first tried to follow the tutorial and created my own account on GitHub. I learned some new terms, but still these things are a bit unclear to me as I am new to it, so its hard for me to understand it within day.*|
