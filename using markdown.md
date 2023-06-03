@@ -22,7 +22,7 @@ We can also insert images
 ![Image](https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_230,q_auto,w_305/v1/filestore/g1aprfx64fc5i98oagpzy5wf6zby_1594464137_shutterstock_1203469480.jpg)
 
 Creating tables:-
-| Fruits   | Vegetables|
+| Fruits   |Vegetables|
 |----------|----------|
 |  Mango   | Carrot   |
 |  Banana  |  Radish  | 
