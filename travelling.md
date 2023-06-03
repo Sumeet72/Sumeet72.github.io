@@ -38,4 +38,4 @@ Oh, and there's no need to pick your attractions before you purchase - you have 
 **Tel: +1 212-201-2700**
 
 For further information about hotel booking go to:-
-[Link Text](https://www.agoda.com/en-in/pages/agoda/default/DestinationSearchResult.aspx?city=318&site_id=1914936&tag=008307bc-c88c-4b1e-a068-0600b1119ae5&msclkid=f500fb7000151c1b6c9a9f0ac45cab9a)
+[Hotel Bookings](https://www.agoda.com/en-in/pages/agoda/default/DestinationSearchResult.aspx?city=318&site_id=1914936&tag=008307bc-c88c-4b1e-a068-0600b1119ae5&msclkid=f500fb7000151c1b6c9a9f0ac45cab9a)
