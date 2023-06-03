@@ -19,7 +19,7 @@ This is my link created to another GitHub page.
 [Travelling](https://www.example.com)
 
 We can also insert images
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F674010%2Fpexels-photo-674010.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500&tbnid=fY9reP86COngJM&vet=12ahUKEwjZw7Dd0qb_AhXj-XMBHRnjAlIQMygCegUIARDmAQ..i&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbeautiful%2F&docid=B51x0PBR9KNzvM&w=500&h=667&q=images&ved=2ahUKEwjZw7Dd0qb_AhXj-XMBHRnjAlIQMygCegUIARDmAQ)
+![Image](https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.0,f_auto,fl_progressive.strip_profile,g_center,h_230,q_auto,w_305/v1/filestore/g1aprfx64fc5i98oagpzy5wf6zby_1594464137_shutterstock_1203469480.jpg)
 
 Creating tables:-
 | Fruits   | Vegetables|
