@@ -18,7 +18,7 @@ Our sample four-day itinerary of New York gives you a taster of what the city ha
 Oh, and there's no need to pick your attractions before you purchase - you have the flexibility to choose where to go on the day! The is what a 4 day New York Pass itinerary could look like.
 
 ![image](https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.5,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/3sjqxzgde80juroj132fhpek537m_1594464142_shutterstock_160968266.jpg)
-![image]https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.5,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/lposrys67w4gphx9sphak8ogprrf_1594464143_shutterstock_213395542.jpg
+![image](https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_1.5,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/lposrys67w4gphx9sphak8ogprrf_1594464143_shutterstock_213395542.jpg)
 
  | Big Bus Hop On Hop Off 1-Day Classic Ticket (Normal ticket value: $59.99),Empire State Building Observatory (Normal ticket value: $47.91)|DAY : 1 |
 |---------------------------------------------|---------|
