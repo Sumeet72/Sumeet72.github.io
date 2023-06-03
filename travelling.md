@@ -1,6 +1,6 @@
 # Travelling
    ## A TRIP TO NEW YORK
-   ![image](file:///C:/Users/DELL/Downloads/stock-statue-323546-hor-clsc.webp) 
+   ![image](C:\Users\DELL\Pictures\1.jpg) 
 
       
    **The Westin New York at *Times Square* will provide an unforgettable experience in New York City, situated near Times Square, Midtown Manhattan and Madison Square Garden.
@@ -35,7 +35,7 @@ Oh, and there's no need to pick your attractions before you purchase - you have 
 | Statue of Liberty Ferry and Ellis Island Immigration Museum (Normal ticket value: $24.00),One World Observatory (Normal ticket value: $44.65)| DAY : 3 |
 |---------------------------------------------|----------|
 
-|Top of the Rock™ Observation Deck (Normal ticket value: $43.55),Rockefeller Center Tour (Normal ticket value: $29.40)          | Day : 4   |
+|Top of the Rock™ Observation Deck (Normal ticket value: $43.55),Rockefeller Center Tour (Normal ticket value: $29.40),Musical at Broadway| Day : 4   |
 |---------------------------------------------|---------|
 
 *The Westin New York at Times Square*
