@@ -21,7 +21,7 @@
 | *Jaigarh Fort, Alert Hall, City Park, Gulabgarh*| DAY4  |
 
 ## Jammu and Kashmir
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/250px-Pahalgam_Valley.jpg)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Houseboats%2C_Dal_Lake%2C_Kashmir.jpg/250px-Houseboats%2C_Dal_Lake%2C_Kashmir.jpg)
 
 Jammu and Kashmir is named after the two regions it encompasses – the Jammu region and the Kashmir Valley.
 The climate of Jammu and Kashmir varies with altitude and across regions. Southern and southwestern areas have a sub tropical climate, with hot summers and cool winters. This region receives most of its rainfall during the monsoon season. In the east and north, summers are usually pleasant. 
