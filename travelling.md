@@ -12,7 +12,6 @@
 ![Albert Hall](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albert_Hall_%28_Jaipur_%29.jpg/125px-Albert_Hall_%28_Jaipur_%29.jpg)
 ![World Trade Park](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/World_Trade_Park_Jaipur_in_2012.jpg/139px-World_Trade_Park_Jaipur_in_2012.jpg)
 ![City Palace](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Riddhi-Siddhi_Pol%2C_City_Palace_Jaipur.jpg/260px-Riddhi-Siddhi_Pol%2C_City_Palace_Jaipur.jpg)
-![Jaigarh Fort](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jaipur_03-2016_01_Jaigarh_Fort.jpg/312px-Jaipur_03-2016_01_Jaigarh_Fort.jpg)
 
 | Places visited                                             | DAYS    |
 |------------------------------------------------------------|---------|
@@ -33,7 +32,6 @@ The climate of Jammu and Kashmir varies with altitude and across regions. Southe
 ![Pahalgam](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/250px-Pahalgam_Valley.jpg)
 ![Amarnath Temple](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLuwC7HKvjyD0mXA5a9OeVSjWqD4H6KKB--rjNJo2&s)
 ![Dal Lake](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/264px-Dal_Lake_Hazratbal_Srinagar.jpg)
-![Srinagar](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Srinagar_pano.jpg/250px-Srinagar_pano.jpg)
 
 | Places visited                                             | DAYS    |
 |------------------------------------------------------------|---------|
