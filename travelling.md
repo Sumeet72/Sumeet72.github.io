@@ -5,7 +5,7 @@
    Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings. It is also known as the Paris of India, and C. V. Raman called it the Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
     
 
- ## Places I visited
+## Places I visited
  
 ![Jantar Mantar](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jantar_Mantar_at_Jaipur.jpg/268px-Jantar_Mantar_at_Jaipur.jpg) 
 ![Jal Mahal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg/140px-Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg)
@@ -27,7 +27,8 @@
 Jammu and Kashmir is named after the two regions it encompasses – the Jammu region and the Kashmir Valley.
 The climate of Jammu and Kashmir varies with altitude and across regions. Southern and southwestern areas have a sub tropical climate, with hot summers and cool winters. This region receives most of its rainfall during the monsoon season. In the east and north, summers are usually pleasant. 
 
- ## Places I visited
+## Places I visited
+ 
 ![Gulmarg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gulmarg_-_Jannat_on_Earth.jpg/248px-Gulmarg_-_Jannat_on_Earth.jpg) 
 ![Pahalgam](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/250px-Pahalgam_Valley.jpg)
 ![Amarnath Temple](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLuwC7HKvjyD0mXA5a9OeVSjWqD4H6KKB--rjNJo2&s)
