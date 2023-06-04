@@ -7,11 +7,11 @@
 
 ## Places I visited
  
+![City Palace](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Riddhi-Siddhi_Pol%2C_City_Palace_Jaipur.jpg/260px-Riddhi-Siddhi_Pol%2C_City_Palace_Jaipur.jpg)
 ![Jantar Mantar](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jantar_Mantar_at_Jaipur.jpg/268px-Jantar_Mantar_at_Jaipur.jpg) 
 ![Jal Mahal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg/140px-Jaipur_03-2016_39_Jal_Mahal_-_Water_Palace.jpg)
 ![Albert Hall](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Albert_Hall_%28_Jaipur_%29.jpg/125px-Albert_Hall_%28_Jaipur_%29.jpg)
 ![World Trade Park](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/World_Trade_Park_Jaipur_in_2012.jpg/139px-World_Trade_Park_Jaipur_in_2012.jpg)
-![City Palace](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Riddhi-Siddhi_Pol%2C_City_Palace_Jaipur.jpg/260px-Riddhi-Siddhi_Pol%2C_City_Palace_Jaipur.jpg)
 
 | Places visited                                             | DAYS    |
 |------------------------------------------------------------|---------|
@@ -27,11 +27,11 @@ Jammu and Kashmir is named after the two regions it encompasses – the Jammu re
 The climate of Jammu and Kashmir varies with altitude and across regions. Southern and southwestern areas have a sub tropical climate, with hot summers and cool winters. This region receives most of its rainfall during the monsoon season. In the east and north, summers are usually pleasant. 
 
 ## Places I visited
- 
+
+![Dal Lake](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/264px-Dal_Lake_Hazratbal_Srinagar.jpg)
 ![Gulmarg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gulmarg_-_Jannat_on_Earth.jpg/248px-Gulmarg_-_Jannat_on_Earth.jpg) 
 ![Pahalgam](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pahalgam_Valley.jpg/250px-Pahalgam_Valley.jpg)
 ![Amarnath Temple](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLuwC7HKvjyD0mXA5a9OeVSjWqD4H6KKB--rjNJo2&s)
-![Dal Lake](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/264px-Dal_Lake_Hazratbal_Srinagar.jpg)
 
 | Places visited                                             | DAYS    |
 |------------------------------------------------------------|---------|
