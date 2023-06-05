@@ -26,3 +26,12 @@ Creating tables:-
 |----------|----------|
 |  Mango   | Carrot   |
 |  Banana  |  Radish  | 
+
+```
+{
+  "firstName": "Sumeet",
+  "age": 25
+}
+```
+
+>blockquote this line.
