@@ -2,9 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QU3TeZxXDls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## JAIPUR
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/268px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg) 
-      
+## JAIPUR 
 Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
 >It is also known as the Paris of India, and C. V. Raman called it the Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
 
