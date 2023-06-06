@@ -68,4 +68,6 @@ __Places I want to visit__
 For further information about hotel booking go to:-
 [Hotel Bookings](https://www.trivago.in/)
 
+<textarea data-template> Any reviews </textarea>
+
 [^1]: Cris Prystay (26 October 2007). [Fairway to Heaven](https://www.wsj.com/articles/SB119332713217271534?mod=googlenews_wsj). The Wall Street Journal.
