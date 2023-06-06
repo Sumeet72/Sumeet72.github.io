@@ -7,7 +7,7 @@
 int main() {
 string a = "Jai;"
 string b = "pur";
-int c = a + b;
+string c = a + b;
 cout << c <<endl;
 return 0;
 }
