@@ -2,7 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QU3TeZxXDls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## JAIPUR 
+## JAIPUR~1 
 ```
 int main() {
 string a = "Jai;"
@@ -15,7 +15,7 @@ return 0;
 ```
 
 Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
->It is also known as the Paris of India, and C. V. Raman called it the Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
+>It is also known as the Paris of India, and C. V. Raman called it the ~island~ Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
 
 Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
     
