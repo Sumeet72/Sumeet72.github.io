@@ -6,6 +6,17 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
+<section data-markdown>
+  <textarea data-template>
+    ## Slide 1
+    A paragraph with some text and a [link](https://hakim.se).
+    ---
+    ## Slide 2
+    ---
+    ## Slide 3
+  </textarea>
+</section>
+
 ![bg left:40% 80%](https://marp.app/assets/marp.svg)
 
 # **Marp**
@@ -31,3 +42,5 @@ foobar
 
 foobar
 ```
+
+
