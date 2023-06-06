@@ -3,6 +3,16 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QU3TeZxXDls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## JAIPUR 
+```
+int main() {
+string a = "Jai;"
+string b = "pur";
+int c = a + b;
+cout << c <<endl;
+return 0;
+}
+
+```
 Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
 >It is also known as the Paris of India, and C. V. Raman called it the Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
 
