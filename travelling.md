@@ -14,10 +14,10 @@ return 0;
 
 ```
 
-Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
+1. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
 >It is also known as the Paris of India, and C. V. Raman called it the ~island~ Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
 
-Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
+2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
     
 ## Places I visited
  
@@ -51,16 +51,17 @@ Jammu and Kashmir is named after the two regions it encompasses – the Jammu re
 Tourism
 </div>
 
-The Kashmir Valley is one of the top tourist destinations in India. Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. The decrease in violence in the state has boosted the state's economy, specifically tourism.
+- The Kashmir Valley is one of the top tourist destinations in India. Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
+- The decrease in violence in the state has boosted the state's economy, specifically tourism.
 <iframe src="https://giphy.com/embed/TALfV4ytXE5IQZlUeK" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rahiofficial-rahi-maahi-escapewithmaahi-TALfV4ytXE5IQZlUeK">via GIPHY</a></p>
 
 
 __Places I want to visit__
-- [x] Jaipur
-- [x] Jammu & Kashmir
-- [ ] Mumbai
-- [ ] Agra
-- [ ] Kerala
+ - [x] Jaipur
+ - [x] Jammu & Kashmir
+ - [ ] Mumbai
+ - [ ] Agra
+ - [ ] Kerala
 
 
 
