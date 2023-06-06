@@ -61,4 +61,13 @@ Each slide in a reveal.js presentation is represented by a section element. You 
 Once you have created your slides and configured your presentation, you can preview it by opening the HTML file in a web browser.
 
 
-
+<section data-markdown>
+  <textarea data-template>
+    ## Slide 1
+    A paragraph with some text and a [link](https://hakim.se).
+    ---
+    ## Slide 2
+    ---
+    ## Slide 3
+  </textarea>
+</section>
