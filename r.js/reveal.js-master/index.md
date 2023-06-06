@@ -1,6 +1,6 @@
 <section>
-   <h2>Travelling</h2>
-   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" width="576" height="380" /></section>
+   <h2>Travelling <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8" /></h2>
+   </section>
 
 ---
 
