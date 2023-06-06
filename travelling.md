@@ -51,7 +51,7 @@ Jammu and Kashmir is named after the two regions it encompasses – the Jammu re
 Tourism
 </div>
 
-- The Kashmir Valley is one of the top tourist destinations in India. Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
+- The Kashmir\_Valley is one of the top tourist destinations in India. Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
 - The decrease in violence in the state has boosted the state's economy, specifically tourism.
 <iframe src="https://giphy.com/embed/TALfV4ytXE5IQZlUeK" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rahiofficial-rahi-maahi-escapewithmaahi-TALfV4ytXE5IQZlUeK">via GIPHY</a></p>
 
