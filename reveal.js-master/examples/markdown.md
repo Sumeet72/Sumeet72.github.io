@@ -2,17 +2,21 @@
 
 
 
-## frames and tables
+## Using Frames 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QU3TeZxXDls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
+## Using Tables
 
-
-
-## External 1.2
-
-Content 1.2
+ ## Places I visited
+ 
+			| Places visited                                             | DAYS    |
+			|                 ---					     |   ---   |
+			| *Hawa Mahal, Jal Mahal, Street shopping*                   |  DAY1   |
+			| *City palace, Jantar Mantar,Shopping in Pink city*	     |  DAY2   |
+			| *World Trade Park, Dubai Bazar, Amer Fort, Sheesh Mahal*   |  DAY3   |
+			| *Jaigarh Fort, Alert Hall, City Park, Gulabgarh*	     |  DAY4   |
 
 
 
