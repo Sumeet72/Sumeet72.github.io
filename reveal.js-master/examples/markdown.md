@@ -28,12 +28,6 @@
  
  ---
  
-## Using images
-__Jammu and Kashmir__
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Houseboats%2C_Dal_Lake%2C_Kashmir.jpg/250px-Houseboats%2C_Dal_Lake%2C_Kashmir.jpg)
-
----
-
 
 ## Places I visited
 
@@ -46,6 +40,11 @@ __Jammu and Kashmir__
 
 --- 
 
+## Using images
+__Jammu and Kashmir__
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Houseboats%2C_Dal_Lake%2C_Kashmir.jpg/250px-Houseboats%2C_Dal_Lake%2C_Kashmir.jpg)
+
+---
 
 
 ## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
