@@ -9,7 +9,6 @@
 
 ## Using Tables
 
- ## Places I visited
  
 			| Places visited                                             | DAYS    |
 			|                 ---					     |   ---   |
