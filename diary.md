@@ -7,3 +7,4 @@
 |03-06-2023|When I Pushed every type of file(with .xls, .txt, .md) from my local device to GitHub it gives me some clear understanding of the usage of GitHub; I can show my work to other people across the web.I learn the use of some features that I never cared to use before, while searching something on browser. Moreover, I further understand the some baics for making an effective search on google.|
 |04-06-2023| Learned some basic tricks and shortcut keys to use GitHub.|
 |05-06-2023| Learned about some concepts of git and how is git and GitHub a difference. Had an overview of why git is so important to use while coding as it helps to figure what all changes we made in our code.  I also learned how to add youtube videos in embeded form in our GitHub page.|
+|06-06-2023|Learning to create slides using markdown.|
