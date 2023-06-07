@@ -50,9 +50,8 @@ __Jammu and Kashmir__
 
 ## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
 
-- The Kashmir\_Valley is one of the top tourist destinations in India. Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
-- The decrease in violence in the state has boosted the state's economy, specifically tourism.
-
+- The Kashmir\_Valley is one of the top tourist destinations in India. 
+- Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
 
 ---
 
