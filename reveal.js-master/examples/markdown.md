@@ -9,13 +9,12 @@
 
 ## Using Tables
 
- 
-			| Places visited                                             | DAYS    |
-			|                 ---					     |   ---   |
-			| *Hawa Mahal, Jal Mahal, Street shopping*                   |  DAY1   |
-			| *City palace, Jantar Mantar,Shopping in Pink city*	     |  DAY2   |
-			| *World Trade Park, Dubai Bazar, Amer Fort, Sheesh Mahal*   |  DAY3   |
-			| *Jaigarh Fort, Alert Hall, City Park, Gulabgarh*	     |  DAY4   |
+| Places visited                                             | DAYS    |
+|                 ---					     |   ---   |
+| *Hawa Mahal, Jal Mahal, Street shopping*                   |  DAY1   |
+| *City palace, Jantar Mantar,Shopping in Pink city*	     |  DAY2   |
+| *World Trade Park, Dubai Bazar, Amer Fort, Sheesh Mahal*   |  DAY3   |
+| *Jaigarh Fort, Alert Hall, City Park, Gulabgarh*	     |  DAY4   |
 
 
 
