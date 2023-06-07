@@ -23,10 +23,11 @@
 1. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
 >It is also known as the Paris of India, and C. V. Raman called it the ~island~ Island of Glory. It is located 268 km (167 miles) from the national capital New Delhi. 
 
-2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. After independence in 1947, Jaipur was made the capital of the newly formed state of Rajasthan.
+2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. 
+ 
  
 ## Using images
-## Jammu and Kashmir
+__Jammu and Kashmir__
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Houseboats%2C_Dal_Lake%2C_Kashmir.jpg/250px-Houseboats%2C_Dal_Lake%2C_Kashmir.jpg)
 
 ## Places I visited
@@ -42,10 +43,12 @@
 
 
 
-## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), inserting gif, unordered list
+## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
 
 - The Kashmir\_Valley is one of the top tourist destinations in India. Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
 - The decrease in violence in the state has boosted the state's economy, specifically tourism.
+
+## Inserting gif
 <iframe src="https://giphy.com/embed/TALfV4ytXE5IQZlUeK" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rahiofficial-rahi-maahi-escapewithmaahi-TALfV4ytXE5IQZlUeK">via GIPHY</a></p>
 
 ## Using bold, checkboxes, links, footnote, textarea
