@@ -1,7 +1,7 @@
 <section>
   <h2>Travelling</h2>
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f3.png?v8">
- </img>
+ 
  </section>
  
  ---
