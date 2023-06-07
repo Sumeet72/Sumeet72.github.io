@@ -26,29 +26,6 @@
 2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. 
  
  
- ---
- 
-
-## Places I visited
-
-| Places visited                                             | DAYS    |
-|------------------------------------------------------------|---------|
-| *Pahalgam, Chandanwari, Pissu top*|DAY1 |
-| *Sheshnag, Mahagunspot*| DAY2 |
-| *Panchtarni, Amarnath Temple*| DAY3 |
-| *Srinagar, Dal Lake*| DAY4  |
-
---- 
-
-## Inserting gif,image
-Jammu and Kashmir
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Houseboats%2C_Dal_Lake%2C_Kashmir.jpg/250px-Houseboats%2C_Dal_Lake%2C_Kashmir.jpg)
-
-<iframe src="https://giphy.com/embed/TALfV4ytXE5IQZlUeK" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rahiofficial-rahi-maahi-escapewithmaahi-TALfV4ytXE5IQZlUeK">via GIPHY</a></p>
-
-
----
-
 
 ## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
 
