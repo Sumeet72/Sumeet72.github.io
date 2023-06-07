@@ -32,7 +32,7 @@
 __Jammu and Kashmir__
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Houseboats%2C_Dal_Lake%2C_Kashmir.jpg/250px-Houseboats%2C_Dal_Lake%2C_Kashmir.jpg)
 
-
+---
 
 
 ## Places I visited
@@ -52,6 +52,11 @@ __Jammu and Kashmir__
 
 - The Kashmir\_Valley is one of the top tourist destinations in India. 
 - Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
+
+
+
+
+
 
 ---
 
