@@ -16,6 +16,21 @@
 | *World Trade Park, Dubai Bazar, Amer Fort, Sheesh Mahal*   |  DAY3   |
 | *Jaigarh Fort, Alert Hall, City Park, Gulabgarh*	     |  DAY4   |
 
+---
+
+
+## Places I visited
+
+| Places visited                                             | DAYS    |
+|------------------------------------------------------------|---------|
+| *Pahalgam, Chandanwari, Pissu top*|DAY1 |
+| *Sheshnag, Mahagunspot*| DAY2 |
+| *Panchtarni, Amarnath Temple*| DAY3 |
+| *Srinagar, Dal Lake*| DAY4  |
+
+--- 
+
+
 
 
 ## Using numbered list, blockquote, strikethrough
@@ -31,16 +46,6 @@
 
  
 
-## Places I visited
-
-| Places visited                                             | DAYS    |
-|------------------------------------------------------------|---------|
-| *Pahalgam, Chandanwari, Pissu top*|DAY1 |
-| *Sheshnag, Mahagunspot*| DAY2 |
-| *Panchtarni, Amarnath Temple*| DAY3 |
-| *Srinagar, Dal Lake*| DAY4  |
-
---- 
 
 
 ## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
