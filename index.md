@@ -6,3 +6,4 @@ I am currently pursuing my Bachelors in Computer Applications. Additionally, doi
 
 ### My work:
 [Travelling](https://sumeet72.github.io/travelling)
+[Presentation](https://sumeet72.github.io/reveal.js-master/examples/markdown.html#/)
