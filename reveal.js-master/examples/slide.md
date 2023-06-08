@@ -31,5 +31,5 @@
 |\| Syntax \| Description \| | Tables|
 |Here's a sentence with a footnote. \[\^1\] This is the footnote.|Footnote|
 |\~\~The world is flat.\~\~|Strikethrough|
-|\- \[x\] Write the press release        \- \[ \] Update the website           \- \[ \] Contact the media|Tasks list|
+|\- \[x\] Write the press release        \- \[ \] Update the website |Tasks list|
  
