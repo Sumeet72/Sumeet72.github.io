@@ -1,4 +1,4 @@
-## Difference between GitHub and Git
+### Difference between GitHub and Git
 |GitHub|Git|
 |---|---|
 |Git is software.|It is a service.|
