@@ -23,24 +23,11 @@
 1. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
 >It is also known as the Paris of India, and C. V. Raman called it the ~island~ Island of Glory.  
 
-2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. 
+2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. It is located 268 km (167 miles) from the national capital New Delhi. 
+ 
  
  
  ---
- 
- 
- 
- 
- 
-
-## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
-
-- The Kashmir\_Valley is one of the top tourist destinations in India. The decrease in violence in the state has boosted the state's economy, specifically tourism.
-- Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
-
-
-
----
 
  
 
@@ -56,6 +43,15 @@
 --- 
 
 
+## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
+
+- The Kashmir\_Valley is one of the top tourist destinations in India. The decrease in violence in the state has boosted the state's economy, specifically tourism.
+
+
+- Gulmarg, one of India's most popular ski resort destinations, is also home to the world's highest green golf course[^1]. 
+
+
+---
 
 ## Inserting image
 
