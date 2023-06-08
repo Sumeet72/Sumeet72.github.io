@@ -26,6 +26,12 @@
 2. Jaipur was founded in 1727 by the Kachhwaha Rajput ruler Jai Singh II, the ruler of Amer, after whom the city is named. 
  
  
+ ---
+ 
+ 
+ 
+ 
+ 
 
 ## Using Escaping Characters: You can escape special Markdown characters using a backslash (\), unordered list
 
