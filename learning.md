@@ -27,6 +27,10 @@ https://marp.app/
 
 ---
 
+term
+: definition
+
+
 # How to write slides
 
 Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
