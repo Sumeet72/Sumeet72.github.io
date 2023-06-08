@@ -32,4 +32,19 @@
 |Here's a sentence with a footnote. \[\^1\] This is the footnote.|Footnote|
 |\~\~The world is flat.\~\~|Strikethrough|
 |\- \[x\] Write the press release        \- \[ \] Update the website |Tasks list|
+|X\^2\^|Superscript|
+
+                        
+	
+---
+
+
+
+                        
+|Syntax| Elements that do not work|
+|---|---|
+|H~2~O|Subscript H\~2\~O but it strikethrough|
+| ==Highlight==.|\=\=Highlight\=\=|
+|That is so funny! :joy:| Emoji,\:joy\: |
+|term: definition|definition|
  
