@@ -20,10 +20,6 @@
 
 
 
-
-
-
-
 ## Using numbered list, blockquote, strikethrough
 
 1. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings.
