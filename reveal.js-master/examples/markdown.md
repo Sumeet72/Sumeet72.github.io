@@ -19,16 +19,7 @@
 ---
 
 
-## Places I visited
 
-| Places visited                                             | DAYS    |
-|------------------------------------------------------------|---------|
-| *Pahalgam, Chandanwari, Pissu top*|DAY1 |
-| *Sheshnag, Mahagunspot*| DAY2 |
-| *Panchtarni, Amarnath Temple*| DAY3 |
-| *Srinagar, Dal Lake*| DAY4  |
-
---- 
 
 
 
