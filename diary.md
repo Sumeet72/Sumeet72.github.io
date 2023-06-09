@@ -9,3 +9,4 @@
 |05-06-2023| Learned about some concepts of git and how is git and GitHub a difference. Had an overview of why git is so important to use while coding as it helps to figure what all changes we made in our code.  I also learned how to add youtube videos in embeded form in our GitHub page.|
 |06-06-2023|Learning to create slides using markdown.|
 |07-06-2023|Learned how to create slides, and some more features of markdown language like highlighting text changing background and how to write math operations.|
+|08-06-2023|I learned some new features to create a presentation like multiple slides presentation and how to use animation in presentation.|
