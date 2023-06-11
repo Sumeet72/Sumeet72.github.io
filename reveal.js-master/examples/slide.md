@@ -8,6 +8,9 @@
      
      
      
+     
+     
+     
 ---
      
      
@@ -19,6 +22,10 @@
 | \`\`\` code \`\`\` |Denotes a code block. Anything between the backticks will be formatted as code.|
 | \![alt text](image url)	|Denotes an image. The alt text is a description of the image, and the image url is the location of the image.|
 | \-\-\-	|Denotes an horizontal Line|
+     
+     
+     
+     
      
      
 ---
@@ -34,7 +41,14 @@
 |X\^2\^|Superscript|
 	
 	
-	
+
+
+
+
+
+
+
+
 ---
        
        
