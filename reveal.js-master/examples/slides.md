@@ -18,11 +18,7 @@ Microsoft Teams: chat messages*
 
 
 
-
-
 ---
-
-
 
 
 
@@ -50,7 +46,6 @@ In GitHub, the 'fork' feature allows you to create a personal copy of a reposito
 
 
 ---
-
 
 
 
