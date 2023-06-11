@@ -21,7 +21,6 @@ Microsoft Teams: chat messages*
 
 
 
----
 
  The basic *setup* is the most broadly accessible way to get started and only requires that you have a web browser. There's no need to go through a build process or install any dependencies.
 1. Download the latest reveal.js version go to the following [Link](https://revealjs.com/installation/)
@@ -33,9 +32,7 @@ Microsoft Teams: chat messages*
   
   
 ---
-  
-  
-  
+
   
 You can install the setup, or you can fork the file.
 **To fork the file:**
@@ -44,7 +41,6 @@ In GitHub, the 'fork' feature allows you to create a personal copy of a reposito
  Forking is commonly used when contributing to open-source projects hosted on GitHub. If you want to contribute to a project, you can fork the repository and make changes in your forked copy. This allows you to work on the code independently without altering the original repository.
 
 ---
-
 
 
  Here are some of the features you can add to your presentation using reveal.js and Markdown:
