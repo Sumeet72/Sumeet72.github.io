@@ -4,8 +4,6 @@
 3. Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
                         
 ---
-
-
 *Some apps, services and editors that support Markdown as an editing format, including:
 Microsoft Teams: chat messages*
 
