@@ -12,8 +12,11 @@
 
 *Some apps, services and editors that support Markdown as an editing format, including:
 Microsoft Teams: chat messages*
+
 **Discord:** chat messages
+
 **JotterPad:** an online WYSIWYG editor that supports Markdown and fountain.
+
 **Doxygen:** a source code documentation generator which supports Markdown with extra features
 
 
