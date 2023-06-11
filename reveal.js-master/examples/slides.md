@@ -4,14 +4,18 @@
 3. Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
                         
 ---
+
 *Some apps, services and editors that support Markdown as an editing format, including:
 Microsoft Teams: chat messages*
-
 **Discord:** chat messages
 **JotterPad:** an online WYSIWYG editor that supports Markdown and fountain.
 **Doxygen:** a source code documentation generator which supports Markdown with extra features
 
 ---
+
+
+
+
  The basic *setup* is the most broadly accessible way to get started and only requires that you have a web browser. There's no need to go through a build process or install any dependencies.
 1. Download the latest reveal.js version go to the following [Link](https://revealjs.com/installation/)
 2. Unzip and replace the example contents in index.html with your own.
@@ -27,6 +31,8 @@ In GitHub, the 'fork' feature allows you to create a personal copy of a reposito
 2. Personal Experimentation and Development: Forking also serves as a way to experiment and develop projects based on existing code. If you find a repository that aligns with your project's goals or serves as a starting point, you can fork it to create your version. This enables you to make modifications, add features, and tailor the code to your specific needs while keeping the original repository intact.
 	
 ---
+
+
 
  Here are some of the features you can add to your presentation using reveal.js and Markdown:
 **Slide Layouts:** reveal.js allows you to define different slide layouts using Markdown syntax. 
