@@ -31,9 +31,6 @@ Microsoft Teams: chat messages*
   
   
   
----
-
-  
 You can install the setup, or you can fork the file.
 **To fork the file:**
 
