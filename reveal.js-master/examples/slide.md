@@ -36,9 +36,6 @@
                         
 	
 ---
-
-
-
                         
 |Syntax| Elements that do not work|
 |---|---|
