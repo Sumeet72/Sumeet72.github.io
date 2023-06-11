@@ -2,16 +2,10 @@
 1. Markdown can be used to create websites, documents, notes, presentations, email messages.
 2. Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. 
 3. Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
-4. Markdown is future-proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. 
-5. Markdown is everywhere. Websites like GitHub support Markdown, and lots of desktop and web-based applications support it.
-
                         
-	
----
 
 
 
-      
 *Some apps, services and editors that support Markdown as an editing format, including:
 Microsoft Teams: chat messages*
 
@@ -21,7 +15,7 @@ Microsoft Teams: chat messages*
 
                         
 	
----
+
 
 
 
@@ -33,7 +27,7 @@ Microsoft Teams: chat messages*
   
                         
 	
----
+
 
 
 
