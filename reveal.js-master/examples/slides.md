@@ -23,12 +23,11 @@ Microsoft Teams: chat messages*
 
 ---
 
-
-
-
  The basic *setup* is the most broadly accessible way to get started and only requires that you have a web browser. There's no need to go through a build process or install any dependencies.
 1. Download the latest reveal.js version go to the following [Link](https://revealjs.com/installation/)
+
 2. Unzip and replace the example contents in index.html with your own.
+
 3. Open index.html in a browser to view it.
   
   
@@ -42,11 +41,7 @@ You can install the setup, or you can fork the file.
 **To fork the file:**
 
 In GitHub, the 'fork' feature allows you to create a personal copy of a repository owned by another user or organization. When you fork a repository, you create an independent copy that you can modify and work on without affecting the original repository. Here's an explanation of the use of forking in GitHub:
-1. Contributing to Open-Source Projects: Forking is commonly used when contributing to open-source projects hosted on GitHub. If you want to contribute to a project, you can fork the repository and make changes in your forked copy. This allows you to work on the code independently without altering the original repository.
-2. Personal Experimentation and Development: Forking also serves as a way to experiment and develop projects based on existing code. If you find a repository that aligns with your project's goals or serves as a starting point, you can fork it to create your version. This enables you to make modifications, add features, and tailor the code to your specific needs while keeping the original repository intact.
-
-
-
+ Forking is commonly used when contributing to open-source projects hosted on GitHub. If you want to contribute to a project, you can fork the repository and make changes in your forked copy. This allows you to work on the code independently without altering the original repository.
 
 ---
 
