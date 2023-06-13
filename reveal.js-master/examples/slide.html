@@ -132,7 +132,7 @@
 
 				<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
 					<script type="text/template" > 
-				[Multiple-slides](https://sumeet72.github.io/reveal.js-master/examples/presentation.html#/)
+				[Mslides](https://sumeet72.github.io/reveal.js-master/examples/presentation.html#/)
 				This is an example of multiple-slides presentation.
 					*These can be used to differentiate between two or more than two terms.
 					</script>
@@ -179,6 +179,30 @@
 			});
 		</script>
 		<script src="../plugin/math/math.js"></script>
+		<script>
+			Reveal.initialize({
+				history: true,
+				transition: 'linear',
+
+				mathjax2: {
+					config: 'TeX-AMS_HTML-full',
+					TeX: {
+						Macros: {
+							R: '\\mathbb{R}',
+							set: [ '\\left\\{#1 \\; ; \\; #2\\right\\}', 2 ]
+						}
+					}
+				},
+
+				// There are three typesetters available
+				// RevealMath.MathJax2 (default)
+				// RevealMath.MathJax3
+				// RevealMath.KaTeX
+				//
+				// More info at https://revealjs.com/math/
+				plugins: [ RevealMath.MathJax2 ]
+			});
+		</script>
 	
 
 	</body>
