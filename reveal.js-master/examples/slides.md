@@ -5,10 +5,6 @@
 
 
 
----
-
-
-
 
 *Some apps, services and editors that support Markdown as an editing format, including:
 Microsoft Teams: chat messages*
