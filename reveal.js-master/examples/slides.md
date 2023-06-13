@@ -21,10 +21,6 @@ Microsoft Teams: chat messages*
 
 
 
----
-
-
-
 
  The basic *setup* is the most broadly accessible way to get started and only requires that you have a web browser. There's no need to go through a build process or install any dependencies.
 1. Download the latest reveal.js version go to the following [Link](https://revealjs.com/installation/)
@@ -32,9 +28,6 @@ Microsoft Teams: chat messages*
 2. Unzip and replace the example contents in index.html with your own.
 
 3. Open index.html in a browser to view it.
-
-
-
 
 
 
