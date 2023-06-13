@@ -52,13 +52,16 @@ In GitHub, the 'fork' feature allows you to create a personal copy of a reposito
 
 
 
-
 Here are some of the features you can add to your presentation using reveal.js and Markdown:
 **Slide Layouts:** reveal.js allows you to define different slide layouts using Markdown syntax.
 
 **Slide Transitions:** You can specify the transition style between slides using Markdown attributes. For example, you can have slides slide horizontally, vertically.
 
 **Code Syntax Highlighting:** . By wrapping your code blocks in appropriate Markdown syntax, you can specify the programming language and have your code displayed with syntax highlighting during the presentation.
+
+
+---
+
 **Embedded Media:** You can embed images, videos, gif's, or even interactive content within your Markdown slides. 
 
 You can also write **Math equations and add animations** to your presentation.
