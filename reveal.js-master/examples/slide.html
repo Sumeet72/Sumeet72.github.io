@@ -133,14 +133,7 @@
 				
 					
 				<!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
-				 <!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
-                		<section data-markdown="slide3.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
-			
-             				<section data-markdown>
-					<h3>The Cauchy-Schwarz Inequality</h3>
-						\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-					
-				</section>
+				
 				  <section data-markdown>
 				    <script type="text/template">
 					```php [1|3-5]
@@ -183,31 +176,8 @@
 				plugins: [ RevealHighlight ]
 			});
 		</script>
-		<script src="../plugin/math/math.js"></script>
-		<script>
-			Reveal.initialize({
-				history: true,
-				transition: 'linear',
+		
 
-				mathjax2: {
-					config: 'TeX-AMS_HTML-full',
-					TeX: {
-						Macros: {
-							R: '\\mathbb{R}',
-							set: [ '\\left\\{#1 \\; ; \\; #2\\right\\}', 2 ]
-						}
-					}
-				},
-
-				// There are three typesetters available
-				// RevealMath.MathJax2 (default)
-				// RevealMath.MathJax3
-				// RevealMath.KaTeX
-				//
-				// More info at https://revealjs.com/math/
-				plugins: [ RevealMath.MathJax2 ]
-			});
-		</script>
 	
 
 	</body>
