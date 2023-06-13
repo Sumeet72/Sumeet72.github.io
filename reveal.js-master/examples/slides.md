@@ -49,8 +49,6 @@ In GitHub, the 'fork' feature allows you to create a personal copy of a reposito
 
 
 
-
-
 Here are some of the features you can add to your presentation using reveal.js and Markdown:
 **Slide Layouts:** reveal.js allows you to define different slide layouts using Markdown syntax.
 
