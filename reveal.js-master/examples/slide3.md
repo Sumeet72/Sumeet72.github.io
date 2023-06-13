@@ -1,4 +1,4 @@
-This is an example of multiple-slides presentation
+This is an example of *multiple-slides presentation*
 
 [slides](https://sumeet72.github.io/reveal.js-master/examples/presentation.html#/)
 
