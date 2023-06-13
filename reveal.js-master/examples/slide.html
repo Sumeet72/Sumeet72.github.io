@@ -133,8 +133,7 @@
 				This is an example of multiple-slides presentation.
 					*These can be used to differentiate between two or more than two terms.
 				</section>
-				<script src="../plugin/math/math.js"></script>
-				<script src="../plugin/math/math.js"></script>
+				
 				<section>
 
 				\[ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
@@ -151,6 +150,8 @@
     <script src="../dist/reveal.js"></script>
         <script src="../plugin/markdown/markdown.js"></script>
         <script src="../plugin/highlight/highlight.js"></script>
+		<script src="../plugin/math/math.js"></script>
+				<script src="../plugin/math/math.js"></script>
     <script>
 
 			Reveal.initialize({
@@ -169,6 +170,31 @@
 				center: true,
 				hash: true,
 				plugins: [ RevealHighlight ]
+			});
+		</script>
+		<script src="../plugin/math/math.js"></script>
+		<script>
+			Reveal.initialize({
+				history: true,
+				transition: 'linear',
+
+				mathjax2: {
+					config: 'TeX-AMS_HTML-full',
+					TeX: {
+						Macros: {
+							R: '\\mathbb{R}',
+							set: [ '\\left\\{#1 \\; ; \\; #2\\right\\}', 2 ]
+						}
+					}
+				},
+
+				// There are three typesetters available
+				// RevealMath.MathJax2 (default)
+				// RevealMath.MathJax3
+				// RevealMath.KaTeX
+				//
+				// More info at https://revealjs.com/math/
+				plugins: [ RevealMath.MathJax2 ]
 			});
 		</script>
 
