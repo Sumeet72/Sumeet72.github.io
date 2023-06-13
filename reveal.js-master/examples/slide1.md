@@ -7,7 +7,8 @@
 | \-\-\-	|Denotes an horizontal Line|
      
           
-     
+---
+---
      
 |Syntax| Element|
 |---|---|
